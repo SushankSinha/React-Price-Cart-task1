@@ -6,7 +6,7 @@ function Template(props) {
   return (
     <section className="pricing py-5" >
       <div className="container" style = {{display : "flex", flexDirection : "row"}}>
-        <div className="row" style = {{display : "flex", flexDirection : "row"}}>
+        <div className="row" style = {{display : "inline-block"}}>
           <div className="col-lg-4">
             <div className="card mb-5 mb-lg-0" >
               <div className="card-body">
